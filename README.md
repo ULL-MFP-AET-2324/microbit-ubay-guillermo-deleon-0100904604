@@ -3,11 +3,11 @@
 ## Entrega
 
 
-* [Classroom tarea microbit] (https://classroom.github.com/classrooms/149103950-ull-mfp-aet-2324-alu0100904604/assignments/tarea3-tecnologia)
+* [Classroom tarea microbit](https://classroom.github.com/classrooms/149103950-ull-mfp-aet-2324-alu0100904604/assignments/tarea3-tecnologia)
 
-* [Classroom] (https://classroom.github.com/classrooms/149103950-ull-mfp-aet-2324-alu0100904604)
+* [Classroom](https://classroom.github.com/classrooms/149103950-ull-mfp-aet-2324-alu0100904604)
 
-*[Organizacion] (https://github.com/ull-mfp-aet-2324-alu0100904604)
+* [Organizacion](https://github.com/ull-mfp-aet-2324-alu0100904604)
 ## Edit this project
 
 To edit this repository in MakeCode.
