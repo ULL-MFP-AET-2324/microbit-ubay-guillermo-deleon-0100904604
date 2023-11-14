@@ -5,8 +5,8 @@ makecode:
 theme: jekyll-theme-midnight
 Asignatura: Aprendizaje y enseñanza de la Tecnología
 Cosas: 
- - cosas
- - cosas
+  - cosas
+  - cosas
 include:
   - assets
   - README.md
