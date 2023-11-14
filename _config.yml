@@ -3,6 +3,10 @@ makecode:
   platform: microbit
   home_url: https://makecode.microbit.org/
 theme: jekyll-theme-midnight
+Asignatura: Aprendizaje y enseñanza de la Tecnología
+Cosas: 
+ - cosas
+ - cosas
 include:
   - assets
   - README.md
