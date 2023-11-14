@@ -11,7 +11,7 @@
 
 
 
-## {{ site.asignatura }}
+## {{site.asignatura}}
 
 
 ## Edit this project
